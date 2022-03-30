@@ -1,0 +1,20 @@
+#header{
+    height: 50px;
+    background: #aabbdd;
+    color: #000;
+  }
+  #header a:link, #header a:visited {
+      color: #2b6471;
+  }
+  #branding h1{
+    color: #000;
+  }
+
+.login {
+    background: var(--darkened-bg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-image: url(http://127.0.0.1:8000/static/logo-pet.png);
+    background-size: cover;
+    background-position: center;
+}
